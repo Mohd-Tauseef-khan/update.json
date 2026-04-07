@@ -1,7 +1,7 @@
 {
   "status": true,
 
-  "versionCode": "3",
+  "versionCode": "2",
   "versionName": "1.1",
 
   "update_url": "https://raw.githubusercontent.com/USERNAME/REPO/main/app.apk",
@@ -12,11 +12,11 @@
   "update_title": "New Update Available 🚀",
   "update_message": "App ka new version aa gaya hai, please update karo for better performance",
 
-  "show_message": true,
+  "show_message": false,
   "message_title": "Important Notice",
-  "message": "Welcome! Agar koi problem ho to contact karo. ",
+  "message": "Welcome. TowheedGsm Imei checking!",
 
-  "maintenance": false,
+  "maintenance": true,
   "maintenance_title": "Maintenance",
   "maintenance_message": "Server maintenance chal raha hai, thodi der baad try karo."
 }
