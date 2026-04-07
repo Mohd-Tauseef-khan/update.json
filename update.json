@@ -6,9 +6,9 @@
 
   "update_url": "https://raw.githubusercontent.com/USERNAME/REPO/main/app.apk",
 
-  "force_update": false,
+  "force_update": true,
 
-  "show_update": false,
+  "show_update": true,
   "update_title": "New Update Available 🚀",
   "update_message": "App ka new version aa gaya hai, please update karo for better performance",
 
@@ -16,7 +16,7 @@
   "message_title": "Important Notice",
   "message": "Welcome. TowheedGsm Imei checking!",
 
-  "maintenance": true,
+  "maintenance": false,
   "maintenance_title": "Maintenance",
   "maintenance_message": "Server maintenance chal raha hai, thodi der baad try karo."
 }
