@@ -14,8 +14,7 @@
 
   "show_message": true,
   "message_title": "Important Notice",
-  "message": "Welcome. TowheedGsm Imei checking 
-You can check IMEI once 10 hours before login, but do not miss the OTP.",
+  "message": "Welcome. TowheedGsm Imei checking! You can check IMEI once 10 hours before login, but do not miss the OTP.",
 
   "maintenance": false,
   "maintenance_title": "Maintenance",
